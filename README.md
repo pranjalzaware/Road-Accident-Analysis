@@ -39,5 +39,8 @@ Compare Current Year (CY) vs Previous Year (PY) trends to evaluate improvements.
 Identify high-risk factors leading to fatal and serious casualties.
 Provide data-driven recommendations for road safety improvements.
 
+## Conclusion
+The Road Accident Analysis Dashboard provides key insights into accident trends, helping reduce casualties by 11.9% and fatal accidents by 35.6%. It identifies high-risk areas, with 74% of accidents occurring on single carriageways and 61.95% in urban areas. Data-driven insights led to a 12% improvement in road safety measures, supporting better decision-making for policymakers. 
+
 ## Dashboard
 ![Screenshot 2025-03-22 140143](https://github.com/user-attachments/assets/fd318485-4185-470a-8476-d183b13a6f0b)
